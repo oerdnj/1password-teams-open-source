@@ -856,3 +856,7 @@ Fork CMS is dedicated to creating a user friendly environment to build, monitor 
 ### Blueprint
 A modern, powerful, experimental, and modular Discord bot framework
 https://github.com/xpyxel/blueprint
+
+### DEB.SURY.ORG
+An official DEB (Debian and Ubuntu) packaging project for PHP and other software.
+https://deb.sury.org
